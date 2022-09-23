@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guia TFG Ciencias Políticas / Estudios Internacionales
-tagline: Departamento de Ciencias Sociales, UC3M
+title: Guia TFG
+tagline: Ciencias Políticas / Estudios Internacionales, UC3M
 description:
 ---
 
