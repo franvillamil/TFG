@@ -4,7 +4,9 @@ title: Preguntas Frecuentes
 description: Preguntas Frecuentes
 ---
 
-[Volver al inicio](./index.html)
+[**[Volver a la página de inicio]**](./index.html)
+
+
 
 1. **¿Qué hago?**
 
