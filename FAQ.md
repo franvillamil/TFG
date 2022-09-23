@@ -5,11 +5,12 @@ description: Preguntas Frecuentes
 ---
 
 [**[Volver a la página de inicio]**](./index.html)
+
 \
 \
 \
 
-**PREGUNTAS FRECUENTES**\
+##### PREGUNTAS FRECUENTES
 
 1. **¿Qué hago?**
 
