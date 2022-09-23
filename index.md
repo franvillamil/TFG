@@ -8,4 +8,4 @@ description:
 Esta página blah blah
 
 - [Reglamento TFG de la Facultad](files/reglamento.pdf)
-- [FAQ](pages/overview.html)
+- [FAQ](pages/FAQ.html)
