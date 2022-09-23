@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 highlighter: rouge
 title : TFG Ciencias Sociales (CCPP/EEII)
 description : TFG Ciencias Sociales (CCPP/EEII), UC3M
-production_url : https://franvillamil.github.io/tfg
+production_url : https://franvillamil.github.io/TFG
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -39,4 +39,4 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://franvillamil.github.io/tfg
+  BASE_PATH : https://franvillamil.github.io/TFG
