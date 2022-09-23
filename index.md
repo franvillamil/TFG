@@ -8,4 +8,4 @@ description:
 Esta página blah blah
 
 - [Reglamento TFG de la Facultad](files/Reglamento_TFG_Sept_2020_FCSJ.pdf)
-- [FAQ](/FAQ.html)
+- [FAQ](./FAQ.html)
