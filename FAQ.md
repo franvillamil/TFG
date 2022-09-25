@@ -6,6 +6,4 @@ description: Preguntas Frecuentes
 
 ##### PREGUNTAS FRECUENTES
 
-1. **¿Qué hago?**
-
-Haces esto y esto otro.
+En construcción.
