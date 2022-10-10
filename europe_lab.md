@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Preguntas Frecuentes
-description: Preguntas Frecuentes
+title: Ideas Lab Europe
+description: Ideas Lab Europe
 ---
 
 ### IDEAS LAB EUROPE
