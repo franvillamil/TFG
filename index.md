@@ -11,7 +11,7 @@ Esta página contiene información general y recursos para la realización de lo
 
 - [INFORMACIÓN GENERAL](files/guia_TFG.pdf)
 - [Preguntas frecuentes](./FAQ.html)
-- Convocatoria de TFG: [Ideas Lab 'Europa' / Laboratorio de Ideas 'Europa'](files/ideas_lab_europa_2023.pdf) -->
+- Convocatoria de TFG: [Ideas Lab 'Europa' / Laboratorio de Ideas 'Europa'](files/ideas_lab_europa_2023.pdf)
 
 **Recursos:**
 
