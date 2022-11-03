@@ -17,4 +17,4 @@ Esta página contiene información general y recursos para la realización de lo
 
 - [Reglamento TFG de la Facultad](files/Reglamento_TFG_Sept_2020_FCSJ.pdf)
 - [Información general de la Facultad sobre el TFG](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoDosColumnas/1371241563580/Trabajo_de_Fin_de_Grad)
-- [Modelo de portada](files/modelo_portada.docx)
+- Modelo de portada: [[ENGLISH]](files/modelo_portada_ENG.docx) / [[ESPAÑOL]](files/modelo_portada_ESP.docx)
